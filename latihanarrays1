@@ -4,7 +4,7 @@ public class latihanarrays1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String[] peliharaan = {"Burung", "Kucing", "Ikan", "Tikus Curut", "Tikus Got"};
+        String[] peliharaan = {"Burung", "Kucing", "Ikan", "Kadal", "Tikus"};
         for (int p = 0; p < peliharaan.length; p++) {
         System.out.println(peliharaan[p]);
         }
